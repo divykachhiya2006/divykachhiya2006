@@ -1,61 +1,93 @@
-# Hi 👋, I'm Divy Kachhiya
+<h1 align="center">Hi 👋, I'm Divy Kachhiya</h1>
 
-### 💻 Computer Engineering Student
+<h3 align="center">
+Computer Engineering Student •  AI Enthusiast
+</h3>
 
-I'm a passionate Computer Engineering student from India who enjoys building web applications and learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Engineering Student
-- 🌱 Currently learning Full Stack Development
-- 🚀 Building exciting projects with HTML, CSS, JavaScript and React
-- 🎨 Hobby: coding , Sketching
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Passionate+about+Coding;Problem+Solver;Code+%7C+Learn+%7C+Build;Technology+Enthusiast;Always+Curious+to+Learn" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Java
-- Python
-- MySQL
-- Git
-- GitHub
+🎓 B.Tech Computer Engineering Student
 
----
+💡 Passionate about building modern web applications and solving real-world problems through code.
 
-## 📂 Featured Projects
+🚀 I enjoy working on:
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- 💻 Software Development
+- 📖 Open Source & Continuous Learning
 
-### 💳 Credit Compass
-A financial analysis web application.
-
-### 🎬 WatchVault
-A personal movie and TV show tracking application.
+🎯 Currently focusing on:
+- Building real-world projects
+- Data Structures & Algorithms
+- Backend Development
+- Problem Solving
 
 ---
 
-## 📫 Connect With Me
+# 💻 Tech Stack
 
-- GitHub: https://github.com/divykachhiya2006
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode"/>
 
-<!--
-**divykachhiya2006/divykachhiya2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Featured Projects
+
+## 💳 Credit Compass
+
+Financial awareness and credit analysis platform.
+
+## 🎬 WatchVault
+
+Movie & TV Show Tracker built using modern web technologies.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=divykachhiya2006&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divykachhiya2006&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykachhiya2006&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/divykachhiya2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>

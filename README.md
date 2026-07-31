@@ -40,18 +40,6 @@ Computer Engineering Student •  AI Enthusiast
 
 ---
 
-# 🚀 Featured Projects
-
-## 💳 Credit Compass
-
-Financial awareness and credit analysis platform.
-
-## 🎬 WatchVault
-
-Movie & TV Show Tracker built using modern web technologies.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">

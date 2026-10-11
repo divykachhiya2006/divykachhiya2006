@@ -52,14 +52,6 @@ Computer Engineering Student •  AI Enthusiast
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divykachhiya2006&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
